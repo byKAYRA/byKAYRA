@@ -1,6 +1,4 @@
-<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştirici</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=bykayra" alt="bykayra" /></a> </p>
 
 <h3 align="left">Benimle bağlantı kurun :</h3>
 <p align="left">
