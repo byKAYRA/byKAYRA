@@ -1,4 +1,4 @@
-# 💫About Me :
+# byKAYRA:
 Render Artist and Javascript Developer
 
 ## 🌐Socials
