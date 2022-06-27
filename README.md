@@ -14,6 +14,7 @@ Render Artist and Javascript Developer
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=byKAYRA&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
+## 🎧Listening To:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h3izml4v21xtxiwd9ohjca2xe&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 [![](https://visitcount.itsvg.in/api?id=byKAYRA&icon=0&color=0)](https://visitcount.itsvg.in)
