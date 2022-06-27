@@ -16,3 +16,5 @@ Render Artist and Javascript Developer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=byKAYRA&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=h3izml4v21xtxiwd9ohjca2xe&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=h3izml4v21xtxiwd9ohjca2xe&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=true)]]
